@@ -70,7 +70,8 @@ html{
 	border-radius: 10px;
 }
 .background{
-	background:rgba(0,0,0,0.7)url('back2.jpg');
+	/*background:rgba(0,0,0,0.7)url('back2.jpg');*/
+	background-image: url("back2.jpg");
 	background-size: cover;
 	background-blend-mode: darken;
 }
